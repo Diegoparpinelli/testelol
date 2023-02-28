@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 {
   "name": "teste",
   "version": "1.0.0",
@@ -14,20 +14,3 @@
     "express": "^4.18.2"
   }
 }
-=======
-{
-  "name": "teste",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.18.2"
-  }
-}
->>>>>>> aef977a0048d49c26753232930131d7953035849
