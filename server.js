@@ -11,4 +11,4 @@ app.use(cors({origin:"0.0.0.0"}))
 app.use("/", require("./routes/router"));
 
 
-app.listen(80, ()=>console.log(80));
+app.listen(8000, ()=>console.log(8000));
